@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 馬鳴菩薩傳
+#+DATE: 2015-08-30 22:15:08.349048
+#+PROPERTY: JUAN 0
